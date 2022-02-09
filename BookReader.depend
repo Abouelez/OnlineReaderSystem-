@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644071834 source:e:\courses& important files\c++\45 project #6\my\bookreader\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<sstream>
+	<map>
+	<set>
+	<chrono>
+	<iomanip>
+
